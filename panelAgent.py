@@ -4,7 +4,7 @@
 # Agent of Loongson Control Panel
 # Author: Wells Wang
 # Version: 0.1beta
-# Released under GPL v3 License.
+# Released under MIT License.
 #################################################
 
 
